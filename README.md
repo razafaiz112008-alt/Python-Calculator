@@ -1,4 +1,5 @@
 # Python-Calculator
+Author - Md Faizan Raza
 This is my first git repository
 # Python Calculator Project
 
